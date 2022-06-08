@@ -1,0 +1,8 @@
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\obj\Debug\EjGenerico.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\obj\Debug\EjGenerico.csproj.SuggestedBindingRedirects.cache
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\obj\Debug\EjGenerico.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\bin\Debug\EjGenerico.exe.config
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\bin\Debug\EjGenerico.exe
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\bin\Debug\EjGenerico.pdb
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\obj\Debug\EjGenerico.exe
+C:\Users\richa\source\repos\EjGenerico\EjGenerico\obj\Debug\EjGenerico.pdb
